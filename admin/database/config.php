@@ -20,7 +20,6 @@
 	$dbpass = '';
 
 	// Defining base url
-	// define("BASE_URL", "http://localhost/streetlife-africa");
 
 	try {
 		$pdo = new PDO("mysql:host={$dbhost};dbname={$dbname}", $dbuser, $dbpass);

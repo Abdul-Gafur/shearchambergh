@@ -1,12 +1,12 @@
-## STREETLIFE AFRICA
+## Ghana Shea Chamber
 
 
 ## Getting Started
 
 To get started with the project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/Namibra-Devs/streetlife-africa.git`
-2. Navigate to the project directory: `cd streetlife-africa/`
+1. Clone the repository: `git clone https://github.com/Abdul-Gafur/shearchambergh.git`
+2. Navigate to the project directory: `cd shearchambergh/`
 
 ## BEM CSS Methodology
 

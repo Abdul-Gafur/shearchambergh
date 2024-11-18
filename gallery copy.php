@@ -39,13 +39,13 @@
     integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw=="
     crossorigin="anonymous" referrerpolicy="no-referrer" />
 
-  <title>JM Street-Life Africa</title>
+  <title>Ghana Shea Chamber</title>
 </head>
 
 <body>
   <header class="header">
     <nav class="header__navbar">
-      <div class="header__navbar--logo"><a href="index.html">JM Street-Life <br> Studio</a></div>
+      <div class="header__navbar--logo"><a href="index.html">Ghana Shea Chamber</a></div>
       <div>
         <ul class="header__nav-list">
           <li><a href="index.html">Home</a></li>
@@ -149,7 +149,7 @@
           <h4>JM Street-Life Studio</h4>
           <p>Creating unforgettable experiences that celebrate African culture and bring people together.</p>
           <p>+2338096542356</p>
-          <a id="mailto" href="mailto:hello@jmstreetlifestudios.com">hello@jmstreetlifestudios.com</a>
+          <a id="mailto" href="mailto:hello@chamberofsheagh.com">hello@chamberofsheagh.com</a>
           <div class="social-icons">
             <a href=""><i class="fab fa-facebook"></i></a>
             <a href=""><i class="fab fa-twitter"></i></a>

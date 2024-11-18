@@ -50,7 +50,9 @@ include('./admin/database/config.php')
   <link rel="stylesheet" href="./assets/css/responsive.css">
  
 
-  <title>JM Street-Life Africa</title>
+  <title>Ghana Shea Chamber</title>
+  <link rel="icon" href="./assets/uploads/<?php $websiteName = getWebsiteDetails();
+                                                              echo $websiteName['logo']; ?>">
 
 	<script src="./assets/js/modernizr.min.js"></script>
 </head>
@@ -58,7 +60,7 @@ include('./admin/database/config.php')
 <body>
   <header class="header">
     <nav id="navbar" class="header__navbar">
-      <div class="header__navbar--logo"><a href="index.html"><img src="./assets/uploads/<?php $websiteName = getWebsiteDetails();
+      <div class="header__navbar--logo"><a href="index.php"><img src="./assets/uploads/<?php $websiteName = getWebsiteDetails();
                                                               echo $websiteName['logo']; ?>" alt=""></a></div>
       <div>
         <ul class="header__nav-list">

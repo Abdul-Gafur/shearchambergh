@@ -2,7 +2,7 @@
 <main>
 
     <section class="about-header">
-        <h4 class="section-title">About JM StreetLife Studio</h4>
+        <h4 class="section-title">About Ghana Shea Chamber</h4>
         <div class="about-hero">
             <!-- will be raplaced with a video -->
             <img src="./images/about-hero.png" alt="about-hero">
@@ -33,10 +33,31 @@
         <h4 class="section-title text-3xl">Our goal and the future <br> we can grow</h4>
         <div class="our-goal__content">
             <div class="our-goal__text">
-                <p>Our main goal is to connect people from all walks of life and to build a better Africa. We are committed to helping our community by providing opportunities for talent development and creating jobs. We take pride in training and grooming talents such as musicians, actors, artisans, writers, animators, graphic designers, and many more. <br><br>
-                    At JM STREET-LIFE STUDIOS, we have a deep passion for transforming Africa into a better place, and we believe that our productions can play a significant role in achieving this goal. We are committed to using our platform to showcase the beauty, diversity, and richness of African culture to the world. One of our primary objectives is to tell the true African stories through our productions. We recognize the power of storytelling and its ability to shape the way people view the world. <br><br>
-                    We are dedicated to producing content that reflects the real experiences and struggles of Africans, both past and present. <br><br>
-                    We believe that by sharing these stories, we can help to dispel the negative stereotypes that exist about Africa and promote a more accurate and nuanced understanding of the continent. Our team of talented creatives is committed to producing content that is both entertaining and thought-provoking, with a focus on telling stories that resonate with our audience.</p>
+                <p><b>Vision Statement</b><br>
+A catalyst for the sustainable growth and development of the shea industry in Ghana, contributing
+to the empowerment of stakeholders and the socio-economic well-being of communities.<br><br>
+<b>Mission Statement</b><br>
+The mission of the Chamber is to promote, represent and advance the interests of all actors in the
+Shea value chain. The Chamber aims to create an enabling environment that supports the growth,
+competitiveness, and inclusivity of shea value chain actors while upholding sustainable practices
+and benefiting local communities.<br><br>
+<b>Objectives of the Chamber</b><br>
+Overall, the Goal of the Chamber is geared towards promoting the growth and development of the
+Shea industry in Ghana, improving the livelihoods of actors in the value chain, and contributing to
+the socio-economic development of Ghana. <br><br>
+
+To achieve the above goal, the following specific objectives have been set: <br><br>
+<ol>
+    <li>Promote the development and competitiveness of the Ghanaian Shea industry in local and
+    international markets.</li>
+    <li>Advocate for policies and represent the interests of Shea value chain actors.</li>
+    <li>Provide a platform for coordination, collaboration, networking, training, and capacity
+    building among actors in the Shea value chain.</li>
+    <li>Promote sustainable practices, research and development, and awareness of the benefits of
+    Shea products.</li>
+    <li>Facilitate access to finance, technology, and other resources to support the growth and
+    development of the Shea industry in Ghana.</li>
+</ol></p>
             </div>
 
             <div class="our-goal__img">
@@ -47,7 +68,7 @@
 
     <!-- Experience section-->
 
-    <section>
+    <!-- <section>
         <div class="experience">
             <div>
                 <p class="text-2xl">
@@ -65,42 +86,57 @@
                 </p>
             </div>
         </div>
-    </section>
+    </section> -->
 
-    <!-- Specialization section -->
-    <section>
-        <div>
-            <h4 class="section-title text-3xl">OUR SPECIALITY</h4>
-            <div class="flex">
-                <div class="bg-primary-clr">
-                    <h4 class="text-2xl">EVENT PRODUCTION</h4>
-                    <p>We specialize in producing various types of events such as music festivals, art shows,
-                        parties, corporate
-                        events, and weddings. We have produced a number of notable events ranging from intimate
-                        gatherings to
-                        massive crowds of over 52,000 people.</p>
-                </div>
-                <div class="bg-dark">
-                    <h4 class="text-2xl">STORYTELLING</h4>
-                    <p>We believe in the power of storytelling and dedicated to telling true African stories through
-                        our
-                        productions. We aim to dispel negative stereotypes that exist about Africa through content
-                        that reflects
-                        the
-                        real experiences of Africans, both past and present.</p>
-                </div>
-                <div class="bg-dark-800">
-                    <h4 class="text-2xl">TALENT MANAGEMENT</h4>
-                    <p>We are passionate about talent building and providing opportunities for actors, musicians,
-                        artisans,
-                        writers, animators, and designers, among others with a team dedicated to discovering and
-                        grooming new
-                        talents, with the support to succeed.</p>
-                </div>
-            </div>
+  <!-- Specialization section -->
+  <section>
+    <div>
+      <h4 class="section-title text-3xl">WHAT WE OFFER</h4>
+      <div class="flex">
+        <div class="bg-primary-clr" data-aos="fade-up" data-aos-delay="100">
+          <h4 class="text-2xl service-title">Capacity Building and Training</h4>
+          <p>We play a vital role in building the capacity of shea value chain actors. It organizes
+            training programs, workshops, and seminars on various aspects of shea processing, quality control,
+            product diversification, marketing, and entrepreneurship. </p>
         </div>
+        <div class="bg-dark" data-aos="fade-up" data-aos-delay="100">
+          <h4 class="text-2xl service-title">Market Development</h4>
+          <p>We actively works towards expanding market opportunities for shea products both
+            domestically and internationally. It conducts market research, identifies potential buyers and
+            partners, and promotes Ghanaian shea products through trade fairs, exhibitions, and other
+            marketing initiatives. </p>
+        </div>
+        <div class="bg-dark-800" data-aos="fade-up" data-aos-delay="100">
+          <h4 class="text-2xl service-title">Socioeconomic Development</h4>
+          <p>The shea industry is a significant source of livelihood for rural communities in Ghana, particularly
+            for women who are primarily involved in shea nut collection and processing. We
+            actively works towards improving the socioeconomic conditions of shea value chain actors.</p>
+        </div>
+      </div>
+      <div class="flex padding-top-20">
+        <div class="bg-primary-clr" data-aos="fade-up" data-aos-delay="100">
+          <h4 class="text-2xl service-title">Representation and Advocacy</h4>
+          <p>We provides a unified voice for all stakeholders involved in the shea value chain,
+            including shea nut collectors, processors, traders, exporters, and other actors. It represents their
+            interests, concerns, and challenges at various levels of government and policymaking bodies. </p>
+        </div>
+        
+        <div class="bg-dark-800" data-aos="fade-up" data-aos-delay="100">
+          <h4 class="text-2xl service-title">Collaboration and Networking</h4>
+          <p>We serve as a platform for fostering collaboration and networking among different
+            actors in the shea value chain. It brings together shea nut collectors, processors, traders, and
+            exporters, facilitating knowledge exchange, sharing best practices, and promoting innovation.</p>
+        </div>
+        <div class="bg-dark" data-aos="fade-up" data-aos-delay="100">
+          <h4 class="text-2xl service-title">Quality Assurance and Standards</h4>
+          <p>We plays a crucial role in maintaining and promoting quality standards within the shea
+            industry. It collaborates with relevant agencies and bodies to develop and enforce quality control
+            measures, grading standards, and certifications.</p>
+        </div>
+      </div>
+    </div>
 
-    </section>
+  </section>
 
     <!-- ======= Team Section ======= -->
     <section id="team" class="team section-bg">
@@ -185,39 +221,37 @@
         </div>
     </section><!-- End Team Section -->
 
-    <!-- Contact Section -->
-    <section class="contact-section">
-        <div class="contact-content">
-            <div class="contact-text">
-                <h4>LET'S CREATE LASTING EXPERIENCES TOGETHER</h4>
-                <p>At JM STREET-LIFE STUDIOS, we believe in the power of collaboration. Whether you're looking to
-                    plan an event, tell a story, or develop your talent, we're here to help. So let's connect and
-                    see what amazing things we can create together!</p>
-            </div>
+  <!-- Contact Section -->
+  <section class="contact-section" data-aos="fade-up" data-aos-delay="100">
+    <div class="contact-content">
+      <div class="contact-text">
+        <h4>Contact Us: Partner with Us for a Thriving Shea Industry</h4>
+        <p>We welcome your inquiries and collaboration! If you have questions, ideas, or would like to connect with the Ghana Shea Chamber, please reach out or complete our online contact form on our website.</p>
+      </div>
 
-            <div class="form">
-                <div class="contact-form">
-                    <form action="" class="form">
-                        <div class="form-group">
-                            <label for="name" class="text-slate-100">Name</label>
-                            <input type="text" name="name" id="name">
-                        </div>
-                        <div class="form-group">
-                            <label for="email" class="text-slate-100">Email</label>
-                            <input type="email" name="email" id="email">
-                        </div>
-                        <div class="form-group">
-                            <label for="message" class="text-slate-100">Message</label>
-                            <textarea name="message" id="message" cols="30" rows="5"></textarea>
-                        </div>
-                        <div class="form-group">
-                            <button type="submit">Send Message</button>
-                        </div>
-                    </form>
-                </div>
+      <div class="form">
+        <div class="contact-form">
+          <form action="" class="form">
+            <div class="form-group">
+              <label for="name" class="text-slate-100">Name</label>
+              <input type="text" name="name" id="name">
             </div>
+            <div class="form-group">
+              <label for="email" class="text-slate-100">Email</label>
+              <input type="email" name="email" id="email">
+            </div>
+            <div class="form-group">
+              <label for="message" class="text-slate-100">Message</label>
+              <textarea name="message" id="message" cols="30" rows="5"></textarea>
+            </div>
+            <div class="form-group">
+              <button type="submit">Send Message</button>
+            </div>
+          </form>
         </div>
-    </section>
+      </div>
+    </div>
+  </section>
 </main>
 
 <?php include('footer.php');
